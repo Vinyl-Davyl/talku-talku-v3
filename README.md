@@ -57,12 +57,14 @@ Built on the MERN Stack with `NodeJs` `TypeScript` `ReactJs` `Express` `Styled-C
 - [x] UI Update
 
 ## Sneak Peek
-<img width="959" alt="Screenshot 2023-03-23 204014" src="https://user-images.githubusercontent.com/68241801/227333054-82e12095-7fab-4ba7-af97-60b199a9d378.png">
+
+<img width="960" alt="Screenshot 2023-04-11 013330" src="https://user-images.githubusercontent.com/68241801/231026195-9f120896-ba33-45fc-9663-bffb382b93b7.png">
 <img width="959" alt="Screenshot 2023-03-23 205051" src="https://user-images.githubusercontent.com/68241801/227335176-f41b8428-89c0-49a1-b476-54436cb059fa.png">
-<img width="960" alt="Screenshot 2023-03-23 203800" src="https://user-images.githubusercontent.com/68241801/227333277-23263f28-eb98-48a0-80bc-66af2ef56f60.png">
-<img width="960" alt="Screenshot 2023-03-23 205038" src="https://user-images.githubusercontent.com/68241801/227335198-57f29c93-5507-44bc-9dfa-19017d152deb.png">
-<img width="960" alt="Screenshot 2023-03-23 205539" src="https://user-images.githubusercontent.com/68241801/227336923-a684834f-83a8-4a85-afa5-b93a694fd947.png">
-<img width="958" alt="Screenshot 2023-03-23 204411" src="https://user-images.githubusercontent.com/68241801/227333862-cbc8e9c6-7b2f-4541-bccc-51c01c014d42.png">
+<img width="960" alt="Screenshot 2023-04-11 013603" src="https://user-images.githubusercontent.com/68241801/231026333-bfb82347-aee4-4629-bc69-9d1106506bb8.png">
+<img width="960" alt="Screenshot 2023-04-11 014441" src="https://user-images.githubusercontent.com/68241801/231026563-bfb4380d-200b-4bcb-a112-45844d9b77ea.png">
+<img width="960" alt="Screenshot 2023-04-11 013729" src="https://user-images.githubusercontent.com/68241801/231026670-be01c1ee-2245-418a-977c-61d493ec28a8.png">
+<img width="960" alt="Screenshot 2023-04-11 014128" src="https://user-images.githubusercontent.com/68241801/231026727-d42903bf-ca31-48a8-b70c-6c13fe990184.png">
+
 
 
 ## Author
