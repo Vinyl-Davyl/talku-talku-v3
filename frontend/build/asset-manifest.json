@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5886b643.css",
+    "main.js": "/static/js/main.ff8021ce.js",
+    "static/media/landing.gif": "/static/media/landing.12600721efe046ee96b9.gif",
+    "static/media/loader.gif": "/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "static/media/hero2.png": "/static/media/hero2.9703aca8b1585805ed28.png",
+    "static/media/DefaultAvatar.png": "/static/media/DefaultAvatar.b19663f610898bcf3e05.png",
+    "static/media/googleplay.svg": "/static/media/googleplay.ca0283f5f7af66cb31125ed4cfb135da.svg",
+    "static/media/camera.png": "/static/media/camera.345ed1f47f0b6707b38f.png",
+    "static/media/appstore.svg": "/static/media/appstore.d17afbd97699f1833b9c6718c9c4b008.svg",
+    "static/media/Logo.svg": "/static/media/Logo.67f68be327ef4e69f3ed8aadda1cb2af.svg",
+    "index.html": "/index.html",
+    "static/media/smallSellLine.svg": "/static/media/smallSellLine.2727d54d56c28f0126557fe83a34cc7a.svg",
+    "static/media/sellLine.svg": "/static/media/sellLine.9a5d80345afa0825bdfb0bc7193c70d5.svg",
+    "main.5886b643.css.map": "/static/css/main.5886b643.css.map",
+    "main.ff8021ce.js.map": "/static/js/main.ff8021ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5886b643.css",
+    "static/js/main.ff8021ce.js"
+  ]
+}
