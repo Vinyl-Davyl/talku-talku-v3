@@ -1,7 +1,7 @@
-# Talku Talku V3 💬
+# Talku Talku V3 (final version) 💬
 
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-2.5.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-3.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-red.svg" />
   </a>
@@ -11,7 +11,7 @@ Ever wanted to communicate with friends in real-time and you worry about accessi
  
 Talku Talku is a Realtime private Chat Application that runs majorly on the web, might metamorphose into apps to run on other platforms. Its a minimalistic platform where users can come, join rooms with other frineds/users to talk about all kinds of chit chat with real time experience.
  
-### ✨ [Live Demo](https://talku-talku-v2.vercel.app)
+### ✨ [Live Demo]()
 
 
 ## Problems Talked Down on
@@ -38,20 +38,23 @@ Leave a ⭐️ If this project got you going!
 <br /><br /><br />
 
 ## Stack
-Built on the MERN Stack with `NodeJs` `ReactJs` `Express` `Styled-Components` `SocketIo` and `MongoDB` DB systems for Database Management and storage.
+Built on the MERN Stack with `NodeJs` `TypeScript` `ReactJs` `Express` `Styled-Components` `SocketIo` and `MongoDB` DB systems for Database Management and storage.
 
 
 ## Features
+### From V2
 - [x] Users can register/login via username and password.
 - [x] Generate random avatars using [MultiAvatar](https://api.multiavatar.com/) API
 - [x] Emoji picker Integrated.
 - [x] Users can browse and skim through active users
 - [x] Cross-Platform Compatibile
 
- ### Update on more Features to come in V3
-- [ ] Full Migration to Typescript for scalability
-- [ ] Profile section where users can update their avatars with actual selected image
-- [ ] User should be abould to send photos and images while conversating 
+ ### Update on Features come V3
+- [x] Full Migration to Typescript for scalability
+- [x] Profile section where users can update their avatars with actual selected image
+- [x] User should be abould to send photos and images while conversating
+- [x] Users should be able to update already set profile image, after profile creation
+- [x] UI Update
 
 ## Sneak Peek
 <img width="959" alt="Screenshot 2023-03-23 204014" src="https://user-images.githubusercontent.com/68241801/227333054-82e12095-7fab-4ba7-af97-60b199a9d378.png">
