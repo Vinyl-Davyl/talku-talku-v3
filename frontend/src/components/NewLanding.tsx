@@ -35,7 +35,7 @@ const NewLanding: React.FC = () => {
         <Button>
             <Link to="/login">
                 <button>
-                    SignIn Now
+                    Sign In Now
                 </button>
             </Link> 
             <p>Have an account already? Signin
