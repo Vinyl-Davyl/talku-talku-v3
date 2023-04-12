@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from "axios";
 import { User } from "../interfaces";
 
-const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5000" || "https://talku-talku-v2-server.vercel.app";
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:5000" || "https://talku-talku-v3-server.vercel.app";
 
 // Two interfaces, ILogin and ISetAvatar, are defined to specify the expected response data types for certain API calls. few notes to rookies, in "status?: boolean" indicates that the status property is optional. This means that an object that implements this interface may or may not include the status property.
 interface ILogin {
